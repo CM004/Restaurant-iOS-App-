@@ -20,21 +20,21 @@ The Restaurant iOS App is designed to deliver a seamless, delightful food orderi
 
 ## 📸 Highlights
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 05" src="https://github.com/user-attachments/assets/e977cb53-d59f-4f83-9cb8-32790ec49571" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 05" src="https://github.com/user-attachments/assets/e977cb53-d59f-4f83-9cb8-32790ec49571" />
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 12" src="https://github.com/user-attachments/assets/fdc284bb-ad6e-4a5e-8bee-b888d5143f44" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 12" src="https://github.com/user-attachments/assets/fdc284bb-ad6e-4a5e-8bee-b888d5143f44" />
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 30" src="https://github.com/user-attachments/assets/43933d8a-a345-48dd-b173-597f9c3fc073" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 30" src="https://github.com/user-attachments/assets/43933d8a-a345-48dd-b173-597f9c3fc073" />
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 51" src="https://github.com/user-attachments/assets/1d568e0b-e667-410e-a740-46c73a5e2e2f" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 51" src="https://github.com/user-attachments/assets/1d568e0b-e667-410e-a740-46c73a5e2e2f" />
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 52 27" src="https://github.com/user-attachments/assets/d95c84a1-a04e-471f-b33a-a6ed6510886d" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 52 27" src="https://github.com/user-attachments/assets/d95c84a1-a04e-471f-b33a-a6ed6510886d" />
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 52 48" src="https://github.com/user-attachments/assets/3c990b4c-dcce-44ca-873f-e5c8954bf315" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 52 48" src="https://github.com/user-attachments/assets/3c990b4c-dcce-44ca-873f-e5c8954bf315" />
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 53 00" src="https://github.com/user-attachments/assets/3bb34128-8a7b-46ba-bdce-6b829079fad4" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 53 00" src="https://github.com/user-attachments/assets/3bb34128-8a7b-46ba-bdce-6b829079fad4" />
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 53 05" src="https://github.com/user-attachments/assets/de4d1330-c767-40e3-b611-e4b4a730460c" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 53 05" src="https://github.com/user-attachments/assets/de4d1330-c767-40e3-b611-e4b4a730460c" />
 
 ## ✨ Features I Loved Building
 
