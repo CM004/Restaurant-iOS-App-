@@ -20,7 +20,7 @@ The Restaurant iOS App is designed to deliver a seamless, delightful food orderi
 
 ## 📸 Highlights
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 05" src="https://github.com/user-attachments/assets/e977cb53-d59f-4f83-9cb8-32790ec49571" />
+<img width="500" height="1000" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 05" src="https://github.com/user-attachments/assets/e977cb53-d59f-4f83-9cb8-32790ec49571" />
 
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-15 at 21 51 12" src="https://github.com/user-attachments/assets/fdc284bb-ad6e-4a5e-8bee-b888d5143f44" />
 
